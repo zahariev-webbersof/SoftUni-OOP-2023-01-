@@ -12,7 +12,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Classes and objects / Healthcare Program](https://github.com/zahariev-webbersof/SoftUni-OOP-2023-01-/tree/main/classes_and_objects)
 
-➡ [Inheritance](https://github.com/zahariev-webbersof/SoftUni-OOP-2023-01-/tree/main/inheritance),
+➡ [Inheritance](https://github.com/zahariev-webbersof/SoftUni-OOP-2023-01-/tree/main/inheritance)
 
 ## Additional resources:
 
