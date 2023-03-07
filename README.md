@@ -14,8 +14,6 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Inheritance](https://github.com/zahariev-webbersof/SoftUni-OOP-2023-01-/tree/main/inheritance)
 
-➡
-
 ## Additional resources:
 
 ➡ [Course page - Programming OOP with Python - February 2023](https://softuni.bg/trainings/3964/python-oop-february-2023#lesson-49396)  
